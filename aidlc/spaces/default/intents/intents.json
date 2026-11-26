@@ -1,0 +1,10 @@
+[
+  {
+    "uuid": "01a21978-18c4-706e-b89f-89ce4d592d29",
+    "slug": "aws-static-site",
+    "dirName": "261126-aws-static-site",
+    "scope": "infra",
+    "status": "in-flight",
+    "request": "ce25ae09"
+  }
+]
